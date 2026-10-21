@@ -3,8 +3,6 @@
 ## Introduction
 This project simulates a large-scale enterprise network architecture using Cisco Packet Tracer. The system integrates Multi-area OSPF for internal routing and eBGP multi-homing with dual independent Internet Service Providers (ISPs) to achieve High Availability (HA) and seamless failover capabilities.
 
----
-
 ## Core Features and Deployed Technologies
 
 ### 1. Interior Gateway Protocol (IGP) - Multi-Area OSPF
